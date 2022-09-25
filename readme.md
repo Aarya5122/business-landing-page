@@ -28,7 +28,7 @@
 
 ## What I Learnt
 
-Here I got a chance to explore more about Core CSS concepts. Understood the work flow of the media queries and developing utility classes was a awesome experience. I explored width, padding, margin, background, position, background image, media-queries and a lot more core CSS concepts to get this project up and running😃.
+Here I got a chance to explore more about Core CSS concepts. Understanding the work flow of the media queries and developing utility classes was an awesome experience. I explored width, padding, margin, background, position, background image, media queries, and a lot more core CSS concepts to get this project up and running😃.
 
 ## Live Link
 **[Project in Action 🔥](https://business-fsjs.netlify.app/)**
