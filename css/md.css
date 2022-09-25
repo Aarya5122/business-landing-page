@@ -1,0 +1,114 @@
+@media only screen and (max-width: 1024px)  {
+    nav.flex{
+        display: none;
+    }
+
+    .flex{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contact.flex{
+        flex-direction: row;
+    }
+
+    .image-section>img{
+        width: 320px;
+    }
+
+    .heading, .service-heading{
+        font-size: 32px;
+    }
+
+    .half-heading{
+        width: 90vw;
+    }
+
+    .reliability{
+        margin: 15px 0px;
+    }
+
+    .flex-gap{
+        gap: 14vw;
+    }
+
+    .service-header{
+        width: 90%;
+        font-size: 32px;
+    }
+
+    .text-section{
+        padding: 20px 0px;
+    }
+
+    .pb-12{
+        padding-bottom: 6vh;
+    }
+
+    .image-section{
+        width: 100%;
+    }
+
+    .image-section>img{
+        width: 100%;
+    }
+
+    .text{
+        font-size: 18px;
+    }
+
+
+
+    .text-section{
+        padding: 40px 0px;
+        width: 100%;
+        align-items: center;
+    }
+
+    .text-section>button{
+        display: inline-block;
+        width: 100%;
+    }
+
+    .team.px-6, .team-content, .team-members, .team-member{
+        padding: 0px 0px;
+        width: 100vw;
+    }
+
+    .team-heading, .team-text{
+        width: 90vw;
+    }
+
+    .team-text, .team-member-text{
+        font-size: 18px;
+    }
+
+    .team-member-text{
+        width: 85%;
+    }
+
+    .team-member{
+        margin: 24px 0px;
+    }
+
+    .lead-image>img{
+        width: 260px;
+    }
+
+    .team-member-content {
+        width: 90vw;
+        margin: 0px auto;
+    }
+
+    .socials{
+        margin: 40px 0px;
+    }
+
+    .link-heading{
+        font-size: 20px;
+    }
+
+    .list-item{
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,247 @@
+:root{
+    --theme: #636c79;
+    --button: #8bb7a2;
+    --footer: #10181d;
+    --text: #58595c;
+    --heading: #1b1d21;
+    --support: #f2e7f5;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+  
+.flex-justify-space-between{
+    justify-content: space-between;
+}
+  
+.flex-justify-space-around{
+    justify-content: space-around;
+}
+
+.flex-justify-start{
+    justify-content: flex-start;
+}
+  
+.flex-justify-end{
+    justify-content: flex-end;
+}
+  
+.flex-column{
+    flex-direction: column;
+}
+  
+.flex-align-start{
+    align-items: flex-start;
+}
+
+.flex-gap-sm{
+    gap: 1vw;
+}
+
+.flex-gap-md{
+    gap: 2vw;
+}
+
+.flex-gap{
+    gap: 4vw;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+.heading{
+    font-size: 62px;
+    color: var(--heading);
+}
+
+.text{
+    font-size: 24px;
+    color: var(--text);
+}
+
+.text-white{
+    color: #ffffff;
+}
+
+.py-2{
+    padding: 2vh 0px; 
+}
+
+.py-4{
+    padding: 4vh 0px; 
+}
+
+.py-6{
+    padding: 6vh 0px;
+}
+
+.py-8{
+    padding: 8vh 0px;
+}
+
+.px-6{
+    padding: 0px 6vw;
+}
+
+.pt-6{
+    padding-top: 6vh;
+}
+
+.pb-12{
+    padding-bottom: 12vh;
+}
+
+header{
+    padding:4vh 2vw;
+    background: var(--theme);
+}
+
+.logo-container{
+    width: 12vw;
+}
+
+.list{
+    width: 50vw;
+}
+
+.list-item{
+    list-style: none;
+    font-size: 18px;
+}
+
+.button-group{
+    width: 16vw;
+}
+
+.button-outline{
+    padding: 1vh 3vw;
+    font-size: 18px;
+    background: transparent;
+    font-weight: 500;
+    border: 1px solid #928d8d;
+}
+
+.hero-container{
+   background: var(--theme);
+}
+
+.text-section, .image-section{
+    width: 40vw;
+}
+
+.contact{
+    background: #ffffff;
+    padding: 0.2vh 0.5vh
+}
+
+[alt="email"]{
+    padding-left: 8px;
+}
+
+input{
+    height: 6vh;
+    padding: 4vh 8vw 4vh 1vw;
+    border: none;
+}
+
+.button-fill{
+    background: var(--button);
+    color: #ffffff;
+    padding: 2.5vh 4vw;
+    border: none;
+}
+
+.value{
+   font-size: 44px;
+   font-weight: 700;
+}
+
+.reliability-section{
+    height: 155vh;
+}
+
+.half-heading{
+    width: 60vw;
+    text-align: center;
+}
+
+.measures{
+    width: 80vw;
+}
+
+.reliability-image{
+    width: 80vw;
+}
+
+.service-header{
+    width: 40vw;
+    text-align: center;
+}
+
+.service-heading{
+    font-size: 48px;
+}
+
+.team-content {
+    width: 84vw;
+}
+
+.team-heading{
+    width: 30vw;
+}
+
+.team-text{
+    width: 40vw;
+}
+
+.team-members{
+    width: 84vw;
+}
+
+.team-member{
+    width: 25vw;
+}
+
+.name{
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.team-member-text{
+    font-size:18px;
+    color: var(--text);
+}
+
+footer{
+    background: var(--footer);
+}
+
+.footer-section-one, .links{
+    width: 80vw;
+}
+
+.footer-section-one{
+    border-bottom: 3px solid #323b40;
+}
+
+.link-heading{
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.footer-item{
+    font-size: 18px;
+    color: #b3b6b8;
+}
