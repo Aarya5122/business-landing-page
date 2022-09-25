@@ -31,21 +31,17 @@
 Here I got a chance to explore more about Core CSS concepts. Understood the work flow of the media queries and developing utility classes was a awesome experience. I explored width, padding, margin, background, position, background image, media-queries and a lot more core CSS concepts to get this project up and running😃.
 
 ## Live Link
-**[Project in Action 🔥](https://paytm-fsjs.netlify.app/)**
+**[Project in Action 🔥](https://business-fsjs.netlify.app/)**
 
 
 ## Screenshots
 
-![Business Landing Page]()
+![Business Landing Page](./Screenshot/hero-view.png)
 
-![Business Landing Page]()
+![Business Landing Page](./Screenshot/top-view.png)
 
-![Business Landing Page]()
+![Business Landing Page](./Screenshot/mid-view.png)
 
-![Business Landing Page]()
+![Business Landing Page](./Screenshot/bot-view.png)
 
-![Business Landing Page]()
-
-![Business Landing Page]()
-
-![Business Landing Page]()
+![Business Landing Page](./Screenshot/foot-view.png)
